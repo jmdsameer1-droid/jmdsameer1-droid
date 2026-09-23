@@ -1,4 +1,4 @@
-# Hi there, I'm JMD Sameer 👋
+# Hi there, I'm JMD Sameer(Samss) 💕
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=B.Tech+AI+%26+ML+%40+Dayananda+Sagar+University;Full-Stack+AI+Tools;Retro+90s+Cinematic+Aesthetics" alt="Typing SVG" />
