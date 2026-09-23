@@ -10,7 +10,9 @@
 </details>
 ### 🎓 About Me
 - 🔭 **Education:** B.Tech in Artificial Intelligence & Machine Learning at **Dayananda Sagar University**
+
 - 🎬 **Aesthetic & Interests:** Retro 90s cinematic aesthetics, building smart systems, and full-stack AI tools.
+  
 - ⚡ **Currently Focusing On:** Data Structures & Algorithms, Deep Learning, and Web Architecture.
 
 ---
