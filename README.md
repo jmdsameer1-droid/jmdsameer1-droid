@@ -1,10 +1,13 @@
 # Hi there, I'm JMD Sameer(Samss) 💕
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=B.Tech+AI+%26+ML+%40+Dayananda+Sagar+University;Full-Stack+AI+Tools;LOVES CODING " alt="Typing SVG" />
-</p>
 
-
+<details>
+  <summary><b>✨ Click to uncover a little about me...</b></summary>
+  <br/>
+  <blockquote>
+    Hey, I'm <b>Sameer</b>! AIML student at <b>Dayananda Sagar University</b> blending tech with a retro 90s aesthetic. Driven by curiosity, code, and civil services.
+  </blockquote>
+</details>
 ### 🎓 About Me
 - 🔭 **Education:** B.Tech in Artificial Intelligence & Machine Learning at **Dayananda Sagar University**
 - 🎬 **Aesthetic & Interests:** Retro 90s cinematic aesthetics, building smart systems, and full-stack AI tools.
