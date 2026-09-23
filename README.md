@@ -1,9 +1,6 @@
 # Hi there, I'm JMD Sameer 👋
 
-<!-- Optional Banner: Place an image in your repo (e.g., assets/banner.png) or link an external URL -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=JMD%20Sameer&fontSize=50&fontAlignY=35&desc=B.Tech%20AI%20%26%20ML%20@%20Dayananda%20Sagar%20University&descAlignY=60&theme=tokyonight" alt="Retro Banner" width="100%"/>
-</p>
+
 
 ### 🎓 About Me
 - 🔭 **Education:** B.Tech in Artificial Intelligence & Machine Learning at **Dayananda Sagar University**
