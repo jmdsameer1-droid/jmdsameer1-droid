@@ -1,6 +1,13 @@
 # Hi there, I'm JMD Sameer(Samss) 💕
 
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&multiline=true&width=700&height=80&lines=B.Tech+AIML+%40+Dayananda+Sagar+University;Building+intelligent+systems+%26+retro+90s+vibes;Aspiring+Civil+Servant+%26+Software+Dev" alt="LED Neon Typing SVG" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-AIML%20Student%20%7C%20Aspiring%20IAS-00FF66?style=for-the-badge&logoColor=00FF66&labelColor=000000" alt="LED Badge" />
+</p>
 <details>
   <summary><b>✨ Click to uncover a little about me...</b></summary>
   <br/>
