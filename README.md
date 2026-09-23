@@ -1,22 +1,9 @@
 # Hi there, I'm JMD Sameer(Samss) 💕
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=B.Tech+AI+%26+ML+%40+Dayananda+Sagar+University;Full-Stack+AI+Tools;Retro+90s+Cinematic+Aesthetics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=B.Tech+AI+%26+ML+%40+Dayananda+Sagar+University;Full-Stack+AI+Tools;LOVES CODING " alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/jmd-sameer-948b11384" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/3mXchZFux7/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="mailto:jmdsameer1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
 
 ### 🎓 About Me
 - 🔭 **Education:** B.Tech in Artificial Intelligence & Machine Learning at **Dayananda Sagar University**
