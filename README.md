@@ -1,6 +1,15 @@
 # Hi there, I'm JMD Sameer 👋
 
+<!-- Reliable Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=JMD+Sameer;B.Tech+AI+%26+ML+%40+Dayananda+Sagar+University;Retro+Aesthetics+%26+Full-Stack+AI" alt="Typing SVG" />
+</p>
 
+<!-- Stats without Rate-Limit Issues -->
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=jmdsameer1-droid&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jmdsameer1-droid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ### 🎓 About Me
 - 🔭 **Education:** B.Tech in Artificial Intelligence & Machine Learning at **Dayananda Sagar University**
@@ -24,4 +33,7 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmdsameer1-droid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=9D7CD8&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+JMD+Sameer+%F0%9F%91%8B;B.Tech+AI+%26+ML+%40+Dayananda+Sagar+University;Building+Intelligent+Systems+%26+Web+Apps" alt="Typing SVG" />
 </p>
