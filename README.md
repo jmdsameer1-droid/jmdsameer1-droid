@@ -40,15 +40,14 @@
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **HackPortal** | Web platform for students to find and register for hackathons. | Web Dev, API | [Demo / Code](https://hackportal.lovable.app) |
-| **DSU CONNECT** | Campus companion concept for events, announcements, and navigation. | Mobile / UI | *Coming Soon* |
 | **LeetCode Practice** | Solutions and optimized algorithms for standard DSA challenges. | Java, Python | [Repo](https://github.com/jmdsameer1-droid/leetcode) |
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmdsameer1-droid&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmdsameer1-droid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=jmdsameer1-droid&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jmdsameer1-droid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
